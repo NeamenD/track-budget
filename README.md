@@ -11,9 +11,11 @@ npm i express server mongoose morgan
 ```
 
 ## Usage
+![budget](https://user-images.githubusercontent.com/68127279/112043770-a214b080-8b0e-11eb-8c8c-e66c4b7ecf7e.JPG)
+
 
 ```
-![budget](https://user-images.githubusercontent.com/68127279/112043770-a214b080-8b0e-11eb-8c8c-e66c4b7ecf7e.JPG)
+
 
 ```
 
